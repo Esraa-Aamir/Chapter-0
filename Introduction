@@ -1,0 +1,11 @@
+
+#include <iostream> //Pre-processor library
+using namespace std;
+int main() // main; function or main body 
+{
+	cout << "Name : Esraa Aamir " << endl;
+	cout << "Age 19" << endl;
+	cout << "Current Address : Sharjah" << endl;
+	cout << "Permanent address : Pakistan" << endl;
+	return 0;
+}
